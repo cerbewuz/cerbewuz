@@ -26,9 +26,7 @@ I am a coding enthusiast and of course, I love to code. Running is a part of my 
 
 # 
 
-### STATS
-
-![Cerbewuz' Github Stats] (https://github-readme-stats.vercel.app/api?username=cerbewuz&show_icons=true&theme=gruvbox)
+### 
 
 #      
 
