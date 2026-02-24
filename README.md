@@ -1,10 +1,14 @@
 # 👨🏻‍💻 Cerbewuz
 
-I am a coding enthusiast who loves to build. Running is a core part of my lifestyle—right alongside running code with the occasional bug. 😹
+**Full-Stack Engineer | Performance & Endurance Driven**
+
+Full-stack developer with a focus on building resilient, scalable systems across diverse ecosystems. I apply the same discipline and endurance required for long-distance running to architecting high-performance applications and solving complex architectural challenges.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🚀 Technical Arsenal
+
+*Developing high-impact solutions with a versatile stack:*
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -14,6 +18,12 @@ I am a coding enthusiast who loves to build. Running is a core part of my lifest
 
 ---
 
+### 🧩 Engineering Philosophy
+
+- **Resilience:** Building robust backends with **Laravel**, **Python**, and **Java** that stand the test of time.
+- **Precision:** Crafting seamless user experiences using **React**, **Vite**, and modern **CSS/Sass** architectures.
+- **Optimization:** Leveraging **Prisma** and **MySQL** for high-performance data management and efficient query execution.
+
 <p align="center">
-  <i>"Fast feet, faster code."</i>
+  <i>"Relentless in pace, surgical in execution."</i>
 </p>
