@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer | Performance & Endurance Driven**
 
-Full-stack developer with a focus on building resilient, scalable systems across diverse ecosystems. I apply the same discipline and endurance required for long-distance running to architecting high-performance applications and solving complex architectural challenges.
+Full-stack developer with a focus on building resilient, scalable systems across diverse ecosystems. 
 
 ---
 
