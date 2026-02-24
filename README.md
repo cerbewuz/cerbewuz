@@ -18,8 +18,6 @@ Full-stack developer with a focus on building resilient, scalable systems across
 
 ---
 
-### 🧩 Engineering Philosophy
-
 - **Resilience:** Building robust backends with **Laravel**, **Python**, and **Java** that stand the test of time.
 - **Precision:** Crafting seamless user experiences using **React**, **Vite**, and modern **CSS/Sass** architectures.
 - **Optimization:** Leveraging **Prisma** and **MySQL** for high-performance data management and efficient query execution.
